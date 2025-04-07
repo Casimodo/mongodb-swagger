@@ -5,26 +5,8 @@
 
 
 # 🧩 Objectif
-Créer un système Node.js sur Raspberry Pi qui :
 
-1. ✅ Tente de se connecter automatiquement au Wi-Fi enregistré.
-
-2. ❌ Si échec, passe en mode Point d'Accès (AP) nommé raspi-setup.
-
-3. 🌐 Lance une interface web sur http://192.168.4.1 pour :
-    - Afficher la liste des réseaux Wi-Fi détectés
-
-    - Choisir un SSID
-
-    - Entrer le mot de passe Wi-Fi (masqué/démasqué)
-
-4. 🔁 Sauvegarde les identifiants en config.json puis redémarre.
-
-5. 🟢 Si la connexion Wi-Fi est réussie, affiche une page simple "Hello World" avec le SSID connecté.
-
-6. ⚙️ Démarre automatiquement grâce à un service systemd.
-
-
+Réaliser un serveur Swagger connecté à une base Mongodb aved authentification ce basant sur une clé définit dans l'environnement
 
 # Installation système
 
