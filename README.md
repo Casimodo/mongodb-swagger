@@ -66,7 +66,7 @@ api-project/                     ← 📁 Racine du projet
 
 Tu peux maintenant :
 
-- Lancer avec ``sudo node serveur.js``
+- Lancer avec ``sudo node server.js``
 
 - Naviguer sur http://localhost:3000/api-docs pour l'accès direct à la doc
 
