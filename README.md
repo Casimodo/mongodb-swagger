@@ -1,7 +1,7 @@
 **Pour télécharger cliquer sur l'une des étiquettes ci-dessous**
 
-[![GitHub release](https://img.shields.io/github/v/release/Casimodo/rasp-ap.svg)](https://github.com/Casimodo/rasp-ap/releases)
-[![Github All Releases](https://img.shields.io/github/downloads/Casimodo/rasp-ap/total.svg)](https://github.com/Casimodo/rasp-ap/releases)
+[![GitHub release](https://img.shields.io/github/v/release/Casimodo/mongodb-swagger.svg)](https://github.com/Casimodo/mongodb-swagger/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/Casimodo/mongodb-swagger/total.svg)](https://github.com/Casimodo/mongodb-swagger/releases)
 
 
 # 🧩 Objectif
